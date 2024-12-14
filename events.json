@@ -1,0 +1,23 @@
+{
+  "events": [
+    {
+      "name": "Ruby Workshop",
+      "date": "2024-12-20",
+      "location": "Online",
+      "attendees": [
+        {
+          "name": "Efe",
+          "email": "efe@example.com",
+          "zip_code": "90210",
+          "status": "confirmed"
+        },
+        {
+          "name": "John Doe",
+          "email": "john@example.com",
+          "zip_code": "10001",
+          "status": "confirmed"
+        }
+      ]
+    }
+  ]
+}
